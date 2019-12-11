@@ -1,0 +1,25 @@
+{"Cars":[
+	{ "ID":"1","Brand":"Honda", "Model":"Civic", "Horsepower":"174", "Mileage":"26MPG", "Year":"2018" },
+	{ "ID":"3","Brand":"BMW", "Model":"230", "Horsepower":"248", "Mileage":"28MPG", "Year":"2017" },
+	{ "ID":"3","Brand":"BMW", "Model":"640", "Horsepower":"315", "Mileage":"23MPG", "Year":"2018" },
+	{ "ID":"5","Brand":"Mercedes-Benz", "Model":"C-Class", "Horsepower":"241", "Mileage":"28MPG", "Year":"2017" },
+	{ "ID":"5","Brand":"Mercedes-Benz", "Model":"E-Class", "Horsepower":"362", "Mileage":"25MPG", "Year":"2019" },
+	{ "ID":"9","Brand":"Jeep", "Model":"Compass", "Horsepower":"180", "Mileage":"26MPG", "Year":"2019" },
+	{ "ID":"9","Brand":"Jeep", "Model":"Cherokee", "Horsepower":"270", "Mileage":"25MPG", "Year":"2019" },
+	{ "ID":"2","Brand":"Kia", "Model":"Sportage", "Horsepower":"237", "Mileage":"26MPG", "Year":"2017" },
+	{ "ID":"2","Brand":"Kia", "Model":"Soul", "Horsepower":"130", "Mileage":"28MPG", "Year":"2018" },
+	{ "ID":"2","Brand":"Kia", "Model":"Optima", "Horsepower":"245", "Mileage":"28MPG", "Year":"2016" },
+	{ "ID":"1","Brand":"Honda", "Model":"Accord", "Horsepower":"278", "Mileage":"27MPG", "Year":"2016" },
+	{ "ID":"6","Brand":"Audi", "Model":"A4", "Horsepower":"354", "Mileage":"31MPG", "Year":"2018" },
+	{ "ID":"6","Brand":"Audi", "Model":"R8", "Horsepower":"610", "Mileage":"18MPG", "Year":"2018" },
+	{ "ID":"6","Brand":"Audi", "Model":"A3", "Horsepower":"220", "Mileage":"29MPG", "Year":"2017" },
+	{ "ID":"10","Brand":"Tesla", "Model":"S", "Horsepower":"259", "Mileage":"111MPG", "Year":"2019" },
+	{ "ID":"10","Brand":"Tesla", "Model":"3", "Horsepower":"271", "Mileage":"120MPG", "Year":"2019" },
+	{ "ID":"10","Brand":"Tesla", "Model":"X", "Horsepower":"328", "Mileage":"93MPG", "Year":"2017" },
+	{ "ID":"1","Brand":"Honda", "Model":"Pilot", "Horsepower":"280", "Mileage":"23MPG", "Year":"2019" },
+	{ "ID":"6","Brand":"Audi", "Model":"Q7", "Horsepower":"329", "Mileage":"21MPG", "Year":"2019" },
+	{ "ID":"3","Brand":"BMW", "Model":"M5", "Horsepower":"617", "Mileage":"17MPG", "Year":"2019" },
+	{ "ID":"5","Brand":"Mecedes-Benz", "Model":"CLA", "Horsepower":"208", "Mileage":"30MPG", "Year":"2019" },
+	{ "ID":"6","Brand":"Audi", "Model":"Q5", "Horsepower":"221", "Mileage":"23MPG", "Year":"2017" }
+
+]}
